@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jamilahmaysa.com/sitemap.xml
+Sitemap: https://www.jamilahsjam.com/sitemap.xml
